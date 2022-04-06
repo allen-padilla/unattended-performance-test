@@ -1,0 +1,13 @@
+updater.build
+updater.dist
+updater.onefile-build
+updater.exe
+server_logs
+
+main.build
+main.cmd
+UPT.exe
+UPT.zip
+
+log.log
+settings.ini
